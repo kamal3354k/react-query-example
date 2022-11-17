@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "She hulk",
+      "email": "Test@hjsd.com",
+      "number": "765e4w321",
+      "id": 1
+    },
+    {
+      "name": "Captain America",
+      "email": "kamal@hjsd.com",
+      "number": "765e4w321",
+      "id": 2
+    },
+    {
+      "name": "Tony Stark!",
+      "email": "Tony@gmail.com",
+      "number": "654324522",
+      "id": 3
+    },
+    {
+      "name": "hulk",
+      "email": "test@gmail.com",
+      "number": "87654321",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
